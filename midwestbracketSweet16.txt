@@ -1,0 +1,4 @@
+1 Houston 
+4 Purdue 
+3 Kentucky 
+2 Tennessee 

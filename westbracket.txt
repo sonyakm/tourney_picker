@@ -1,0 +1,16 @@
+1 Florida 
+16 Norfolk State
+8 UConn
+9 Oklahoma 
+5 Memphis 
+12 Colorado State 
+4 Maryland 
+13 Grand Canyon 
+6 Missouri 
+11 Drake 
+3 Texas Tech 
+14 UNC Wilmington 
+7 Kansas 
+10 Arkansas 
+2 St. John's 
+15 Omaha 

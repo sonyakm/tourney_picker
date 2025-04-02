@@ -1,0 +1,16 @@
+1 Duke 
+16 Mount St. Mary
+8 Mississippi State 
+9 Baylor 
+5 Oregon 
+12 Liberty 
+4 Arizona 
+13 Akron 
+6 BYU 
+11 VCU 
+3 Wisconsin 
+14 Montana 
+7 Saint Mary's 
+10 Vanderbilt 
+2 Alabama 
+15 Robert Morris 

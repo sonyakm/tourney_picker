@@ -1,0 +1,4 @@
+1 Duke 
+4 Arizona 
+6 BYU 
+2 Alabama 

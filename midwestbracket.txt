@@ -1,0 +1,16 @@
+1 Houston 
+16 SIU Edwardsville 
+8 Gonzaga 
+9 Georgia 
+5 Clemson 
+12 McNeese
+4 Purdue 
+13 High Point 
+6 Illinois 
+11 Xavier
+3 Kentucky 
+14 Troy 
+7 UCLA 
+10 Utah State 
+2 Tennessee 
+15 Wofford

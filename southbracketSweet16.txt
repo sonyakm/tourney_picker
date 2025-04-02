@@ -1,0 +1,4 @@
+1 Auburn 
+5 Michigan 
+6 Ole Miss 
+2 Michigan State

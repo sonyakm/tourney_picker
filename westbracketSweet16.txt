@@ -1,0 +1,4 @@
+1 Florida 
+4 Maryland 
+3 Texas Tech 
+10 Arkansas 
