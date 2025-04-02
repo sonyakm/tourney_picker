@@ -1,5 +1,6 @@
 # tourney_picker
 Repo for code that generates realistic brackets for the NCAA tournament
+(bracket is nicknamed "Robot Overlord" in friendly pools)
 
 Usage: python robot_file.py --verbose --final4 --champ (choose one argument option)
 
